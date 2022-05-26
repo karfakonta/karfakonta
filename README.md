@@ -1,6 +1,6 @@
-- 👋 Hi, My Name @karfakonta
-- 👀 I’m interested in Frontend, Backend and Mobile development to become a Fullstack developper.
-- 🌱 I’m currently learning HTML/CSS, BootStrap, JavaScript,Angular, ReactJS, NodeJS, Python, Flutter, Java, Spring, JavaEE, IOS & Androïd.
+- 👋 Hi, My Name @karfakonta student and master degree graduate majoring in software engineer.
+- 👀 I’m interested in Frontend, Backend and Mobile development a.
+- 🌱 I’m currently learning frontend, backend et mobile development technology as i want to become a Fullstack developer and an expert.
 - 💞️ I’m looking forward to collaborate on any project in order to enhance my level and learn from others.
 - 📫 You can reach me on LinkedIn -- 
 

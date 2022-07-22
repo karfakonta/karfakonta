@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="100"/>
+  <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="150" height="150"/>
 </div>

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="200" height="200" />
+  <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="300" height="150" />
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/karfa-konta/">
@@ -46,4 +46,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>

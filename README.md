@@ -3,6 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/karfa-konta/">
+    Follow me on LinkedIn:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -16,14 +17,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+My Name is Karfa Konta
+I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to frontend, backend and mobile for building applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  I’m looking forward to collaborate on any project in order to enhance my level and learn from others.
 
-- :zap: In my free time, I read books and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KarfaKonta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karfa-konta)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KarfaKonta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karfa-konta)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :

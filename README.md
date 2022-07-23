@@ -2,7 +2,7 @@
   <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="300" height="150" />
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/karfa-konta/">
+  <a href="https://www.linkedin.com/in/karfa-konta/" target="_blank">
     Follow me on LinkedIn:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

@@ -51,8 +51,4 @@ I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 ---
 
-### :fire: Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karfakonta&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karfakonta&layout=compact&theme=vision-friendly-dark)
 

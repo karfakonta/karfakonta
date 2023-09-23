@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="300" height="150" />
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/karfa-konta/" target="_blank">
-    Follow me on LinkedIn:
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <h1>
   Welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,10 +12,10 @@
 
 ### :man_technologist: About Me :
 My Name is Karfa Konta
-I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend, backend and mobile for building applications.
+I am a Web Developer and aspire to be a fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working as a Freelance and contributing to the frontend for building web applications.
 
-- :seedling:  I’m looking forward to collaborate on any project in order to enhance my level and learn from others.
+- :seedling:  I’m looking forward to collaborate on projects in order to enhance my level and learn from others.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KarfaKonta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karfa-konta)
 - ---

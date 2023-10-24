@@ -13,7 +13,6 @@
 ### :man_technologist: About Me :
 My Name is Karfa Konta
 I am a Web Developer and aspire to be a fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Freelance and contributing to the frontend for building web applications.
 
 - :seedling:  I’m looking forward to collaborate on projects in order to enhance my level and learn from others.
 
